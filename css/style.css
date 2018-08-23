@@ -56,8 +56,11 @@ body {
   body #resource-section {
      }
   body #footer {
-    
-     }
+
+  }
+  body #blueLegend {
+    color: #0000ff;
+  }
   body .card{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
